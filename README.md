@@ -32,3 +32,4 @@ npm run build && wrangler publish
 ```
 
 Further documentation for Wrangler can be found [here](https://developers.cloudflare.com/workers/tooling/wrangler).
+Further info about stale-while-revalidate can be found [here](https://developer.fastly.com/learning/concepts/stale/).
