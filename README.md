@@ -1,4 +1,4 @@
-# 👷 `cloudflare-cache-worker-device-locale-country` Cloud Flare Cache Worker Device Locale Country
+# 👷 Cloud Flare Cache Worker Device Locale Country
 This worker for CloudFlare workers enables Stale-While-Revalidate caching in HTML files, so you can get fastest Time To First Byte and best user experience.
 
 #### Usage
