@@ -1,0 +1,8 @@
+name = "cache-worker"
+type = "javascript"
+
+account_id = {{ your account id }}
+compatibility_date = "2022-02-16"
+workers_dev = false
+route = {{ your route }}
+zone_id = {{ your zone id }}
